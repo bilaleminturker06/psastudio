@@ -21,7 +21,7 @@ To buy a license or request activation, contact me on Telegram:
 
 👉 [**Contact on Telegram**](https://t.me/bilalemint)
 
-> *Please send your Hardware ID (HWID) displayed in the application when requesting a license.*
+> *Please send your Machine ID displayed in the application when requesting a license.*
 
 ---
 
